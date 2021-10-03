@@ -9,7 +9,7 @@ An FPS game in Unreal Engine 4
 |Участник|Роль|
 |--|--|
 |[Шевляков Кирилл](https://github.com/Magystr/kirill.github.io)|(РП) Владелец продукта|
-|[Белинский Пётр](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io)|(АД) Мастер|
+|[Белинский Пётр](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io)|АД | Мастер|
 |[Сорокина Татьяна](https://github.com/TatyanaSor/TatyanaSor.github.io)|БА (Тестировщик)|
 |[Ситников Владислав](https://github.com/CblNCoBaKu/CblNCoBaKu.github.io)|НИ (Архитектор)|
 |[Денисов Илья](https://github.com/ilya0667/ilya0667.github.io)|СП (Аналитик)|
