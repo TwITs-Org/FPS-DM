@@ -15,4 +15,4 @@ An FPS game in Unreal Engine 4
 |5. Денисов Илья|СП (Аналитик)|
 |6. Баркан Александр|КО (Тех.писатель)|
 
-### [Отчет (деловая игра)](https://github.com/TwITs-Org/FPS-DM/wiki/Деловая-игра)
+### [Отчет | Деловая игра](https://github.com/TwITs-Org/FPS-DM/wiki/Деловая-игра)
