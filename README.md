@@ -8,12 +8,12 @@ An FPS game in Unreal Engine 4
 ### Состав разработчиков
 |Участник|Роль|
 |--|--|
-|1. [Шевляков Кирилл](https://github.com/Magystr/kirill.github.io)|(РП) Владелец продукта|
-|2. []Белинский Пётр|(АД) Мастер|
-|3. []Сорокина Татьяна|БА (Тестировщик)|
-|4. Ситников Владислав|НИ (Архитектор)|
-|5. Денисов Илья|СП (Аналитик)|
-|6. Баркан Александр|КО (Тех.писатель)|
+|[Шевляков Кирилл](https://github.com/Magystr/kirill.github.io)|(РП) Владелец продукта|
+|[Белинский Пётр](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io)|(АД) Мастер|
+|[Сорокина Татьяна](https://github.com/TatyanaSor/TatyanaSor.github.io)|БА (Тестировщик)|
+|[Ситников Владислав](https://github.com/CblNCoBaKu/CblNCoBaKu.github.io)|НИ (Архитектор)|
+|[Денисов Илья](https://github.com/ilya0667/ilya0667.github.io)|СП (Аналитик)|
+|[Баркан Александр](https://github.com/AlexandrBarkan/Barkan.github.io)|КО (Тех.писатель)|
 
 ## Деловая игра
 
