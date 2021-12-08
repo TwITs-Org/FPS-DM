@@ -18,3 +18,9 @@ An FPS game in Unreal Engine 4
 ## Деловая игра
 
 ### [Отчет | Деловая игра](https://github.com/TwITs-Org/FPS-DM/wiki/Деловая-игра)
+
+### [Отчет | Лабораторные работы 4-6](https://github.com/TwITs-Org/FPS-DM/wiki/Лабораторные-работы-4–6)
+
+### [О проекте](https://github.com/TwITs-Org/FPS-DM/wiki/О-проекте)
+
+### [Экономическая составляющая создания игры](https://github.com/TwITs-Org/FPS-DM/wiki/Экономическая-составляющая-создания-игры)
