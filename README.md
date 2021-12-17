@@ -12,7 +12,7 @@ An FPS game in Unreal Engine 4
 |[Белинский Пётр](https://github.com/ARaskolnikoff/ARaskolnikoff.github.io)|**АД** / Мастер|
 |[Сорокина Татьяна](https://github.com/TatyanaSor/TatyanaSor.github.io)|**БА** / Тестировщик|
 |[Ситников Владислав](https://github.com/CblNCoBaKu/CblNCoBaKu.github.io)|**НИ** / Архитектор|
-|[Денисов Илья](https://github.com/ilya0667/ilya0667.github.io)|**С**П / Аналитик|
+|[Денисов Илья](https://github.com/ilya0667/ilya0667.github.io)|**СП** / Аналитик|
 |[Баркан Александр](https://github.com/AlexandrBarkan/Barkan.github.io)|**КО** / Технический писатель|
 
 ## Деловая игра
