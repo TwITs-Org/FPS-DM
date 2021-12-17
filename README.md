@@ -24,3 +24,5 @@ An FPS game in Unreal Engine 4
 ### [О проекте](https://github.com/TwITs-Org/FPS-DM/wiki/О-проекте)
 
 ### [Экономическая составляющая создания игры](https://github.com/TwITs-Org/FPS-DM/wiki/Экономическая-составляющая-создания-игры)
+
+### [Цели и задачи в проекте. IDEF0](https://github.com/TwITs-Org/FPS-DM/wiki/Цели-и-задачи-в-проекте.-IDEF0)
